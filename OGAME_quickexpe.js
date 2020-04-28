@@ -1,11 +1,15 @@
 // ==UserScript==
 // @name         Quick Expe
 // @namespace    gameforge.com
-// @version      1
-// @author       (You)
+// @version      1.0
+// @author       villoss
 // @match        https://*.ogame.gameforge.com/game/index.php?page=ingame&component=fleetdispatch*
 // @grant        GM_addStyle
 // ==/UserScript==
+
+// ==OpenUserJS==
+// @author villoss
+// ==/OpenUserJS==
 
 (function() {
     const wantedSSrdm = 40;
